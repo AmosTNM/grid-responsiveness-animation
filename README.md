@@ -1,6 +1,6 @@
 # grid-responsiveness-animation
 
-A finalidade da presente aplicação é demonstrar o funcionamento do grid, da responsiviadade e das animações.
+A finalidade da presente aplicação é demonstrar o funcionamento do grid, da responsividade e das animações.
 
 Ao carregar a página, percebemos a animação no texto e nas imagens, inclusive ao passar o mouse sobre as imagens.
 
